@@ -1,7 +1,8 @@
 - 👋 Hi, I’m 林
 - 👀 I’m interested in kendo 
 - 🌱 I’m currently learning 劍道
-  
+- 參加過劍道比賽也擔任過相關志工
+ 今天第一次用github 
 
 
 
